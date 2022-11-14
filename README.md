@@ -13,3 +13,4 @@ Here are some facts about me:
 - learn and grow every day
 - enjoy the journey
 
+![dummy](https://icon-library.com/images/female-profile-icon/female-profile-icon-1.jpg)
