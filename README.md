@@ -3,12 +3,12 @@
 Hi, my name is Astrid. I'm a student of web development. 
 Here are some facts about me: 
 
-**I am ...**
+⭐ **I am ...**
 - a coding fan
 - a logical, creative and open mind
 - a traveller
 
-**I like to ...**
+📌 **I like to ...**
 - inspire people and be inspired
 - learn and grow every day
 - enjoy the journey
@@ -43,3 +43,4 @@ Here are some facts about me:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
