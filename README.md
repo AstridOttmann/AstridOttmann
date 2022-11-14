@@ -1,6 +1,8 @@
 # Welcome To My GitHub Profile
 
-Hi, my name is Astrid. I'm a student of web development -just started the journey :smile:. 
+Hi, my name is Astrid. I'm a student of web development - just started the journey :smile:. 
+
+![starting](https://images.unsplash.com/photo-1608496601160-f86d19a44f9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIwc3RhcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60)
 
 Here are some facts about me: 
 
@@ -13,8 +15,6 @@ Here are some facts about me:
 - inspire people and be inspired
 - learn and grow every day
 - enjoy the journey
-
-![dummy](https://icon-library.com/images/female-profile-icon/female-profile-icon-1.jpg)
 
 <h3>Things I (am going to :smiling_imp:) code with</h3>
 <p>
@@ -36,4 +36,7 @@ Here are some facts about me:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+![teamwork](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG5ldyUyMHN0YXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60)
+
 
