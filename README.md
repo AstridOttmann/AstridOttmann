@@ -2,9 +2,7 @@
 
 Hi, my name is _Astrid_. 
 
-I'm a Junior Software Developer - just started my journey :smile:. 
-
-![starting](https://images.unsplash.com/photo-1608496601160-f86d19a44f9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIwc3RhcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60)
+I'm a Junior Software Developer - open to keep on learning :smile:. 
 
 Here are some facts about me: 
 
@@ -18,11 +16,10 @@ Here are some facts about me:
 - learn and grow every day
 - enjoy the journey
 
-### Things I code with
+### My Tech-Stack
 
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,8 +30,5 @@ Here are some facts about me:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-![teamwork](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG5ldyUyMHN0YXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60)
 
 
