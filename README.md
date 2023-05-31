@@ -2,7 +2,7 @@
 
 Hi, my name is _Astrid_. 
 
-I'm a Junior Web Developer - just started my journey :smile:. 
+I'm a Junior Software Developer - just started my journey :smile:. 
 
 ![starting](https://images.unsplash.com/photo-1608496601160-f86d19a44f9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIwc3RhcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60)
 
@@ -18,7 +18,7 @@ Here are some facts about me:
 - learn and grow every day
 - enjoy the journey
 
-### Things I (am going to :smiling_imp:) code with
+### Things I code with
 
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
